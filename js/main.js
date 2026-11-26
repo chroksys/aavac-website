@@ -1,5 +1,5 @@
 /* ==========================================================================
-   AAVAC LTD — Motion, Navigation & Mobile-Optimized Interactive Components
+   AVAC LTD — Motion, Navigation & Mobile-Optimized Interactive Components
    ========================================================================== */
 
 (function () {
@@ -293,7 +293,7 @@
       const notes = document.getElementById('message').value.trim();
 
       const summary =
-        `Hello AAVAC Ltd,\n\n` +
+        `Hello AVAC Ltd,\n\n` +
         `Name: ${name}\n` +
         `Phone: ${phone}\n` +
         `Email: ${email}\n` +

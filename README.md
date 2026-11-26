@@ -1,10 +1,10 @@
-# AAVAC Ltd — Admissions Visa Application Center Website
+# AVAC Ltd — Admissions Visa Application Center Website
 
-Official multi-page website for **AAVAC Ltd**, a travel, visa application, and international education consultancy based in Kigali – Nyarugenge, Rwanda, with **9 years of service**.
+Official multi-page website for **AVAC Ltd**, a travel, visa application, and international education consultancy based in Kigali – Nyarugenge, Rwanda, with **9 years of service**.
 
 ## Pages
-- `index.html` — Home (Hero, About overview, Services, 8 Visa Categories, 9-Year Story Timeline, Why Choose AAVAC, Global Destinations, Consultation CTA)
-- `about.html` — About AAVAC Ltd (9-Year Heritage, Mission & Vision, 4-Step Consultancy Process, Transparency Policy)
+- `index.html` — Home (Hero, About overview, Services, 8 Visa Categories, 9-Year Story Timeline, Why Choose AVAC, Global Destinations, Consultation CTA)
+- `about.html` — About AVAC Ltd (9-Year Heritage, Mission & Vision, 4-Step Consultancy Process, Transparency Policy)
 - `admissions.html` — School Admissions for Canada & the United States (Interactive Country Pathways, Checklists, Student Roadmap, FAQ)
 - `visas.html` — Visa Application Services (Interactive Category Filter across all 8 Visa Types & Canadian Permanent Residency)
 - `destinations.html` — Destinations We Serve (Canada, United States, United Kingdom, Schengen Countries, Turkey)
