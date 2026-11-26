@@ -1,0 +1,8 @@
+# OS & Editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Reference design inspiration screenshots
+inspo/
