@@ -1,6 +1,6 @@
 # AAVAC Ltd — Admissions Visa Application Center Website
 
-Official multi-page website for **AAVAC Ltd**, a travel, visa application, and international education consultancy based in Downtown Kigali, Rwanda, with **9 years of service**.
+Official multi-page website for **AAVAC Ltd**, a travel, visa application, and international education consultancy based in Kigali – Nyarugenge, Rwanda, with **9 years of service**.
 
 ## Pages
 - `index.html` — Home (Hero, About overview, Services, 8 Visa Categories, 9-Year Story Timeline, Why Choose AAVAC, Global Destinations, Consultation CTA)
@@ -24,7 +24,8 @@ python -m http.server 8765
 ```
 
 ## Contact
-- **Office:** TCB (Town Center Building), 3rd Floor, Room A13, Downtown Kigali, Rwanda
+- **Office:** TCB House (Town Center Building), 3rd Floor A, Room 13, Kigali – Nyarugenge, Rwanda
+- **Consultation Fee:** 10,000 RWF (payable after booking appointment)
 - **Telephone:** +250 780 873 992
 - **Email:** avacltd10@gmail.com
 - **Instagram:** AVAC LTD

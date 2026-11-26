@@ -2142,6 +2142,62 @@ h1, h2, h3, h4, h5 {
   resize: vertical;
 }
 
+/* Consultation Fee Architectural Card */
+.fee-card {
+  margin-top: 22px;
+  padding: 18px 20px;
+  border-radius: var(--radius-md);
+  background: var(--navy);
+  color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  position: relative;
+  overflow: hidden;
+}
+
+.fee-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--orange), var(--blue));
+}
+
+.fee-card__label {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 4px;
+}
+
+.fee-card__desc {
+  font-size: 0.88rem;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.45;
+}
+
+.fee-card__amount {
+  font-family: var(--font-display);
+  font-size: 1.38rem;
+  font-weight: 800;
+  color: var(--white);
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+  padding: 8px 16px;
+  border-radius: var(--radius-sm);
+  background: rgba(247, 150, 34, 0.16);
+  border: 1px solid rgba(247, 150, 34, 0.45);
+}
+
 .form-status {
   position: relative;
   display: none;

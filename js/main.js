@@ -300,6 +300,7 @@
         `Service: ${service}\n` +
         `Destination: ${destination}\n` +
         (visaType ? `Visa Category: ${visaType}\n` : '') +
+        `Consultation Fee: 10,000 RWF (payable after booking appointment)\n` +
         (notes ? `\nDetails:\n${notes}` : '');
 
       if (waBtn) {
